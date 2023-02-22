@@ -52,7 +52,6 @@ public class Main {
                 break;
             default:
                 System.out.println(estacion+" --> No corresponde a una estacion");
-                break;
         }
 
     }
